@@ -1,1 +1,1 @@
-Replit: https://replit.com/@Daria882/Waiters-app-1
+Replit: https://replit.com/@Daria882/Waiters-app
